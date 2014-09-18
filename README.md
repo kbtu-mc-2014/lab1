@@ -7,3 +7,5 @@ lab1
 - Commit changes
 - Push the branch
 - Send a pull request
+
+(c) Artem
